@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+Application.java
+ io.flutter.plugins.pushNotification.Application
+com/example/flutterfirebasepush/BuildConfig.java
+ com.example.flutterfirebasepush.BuildConfig
